@@ -1,0 +1,27 @@
+{
+  "app": {
+    "title": "टूडू ऐप",
+    "welcome": "टूडू ऐप में आपका स्वागत है",
+    "description": "हमारे टूडू सूची प्रबंधक के साथ अपने दिन को व्यवस्थित करें।",
+    "goToTodos": "टूडू सूची पर जाएं",
+    "todoList": "टूडू सूची",
+    "addNewTask": "नया कार्य जोड़ें...",
+    "add": "जोड़ें",
+    "delete": "हटाएं",
+    "noTodos": "अभी तक कोई टूडू नहीं है। ऊपर एक जोड़ें!",
+    "language": "भाषा",
+    "home": "होम"
+  },
+  "todos": {
+    "delectus aut autem": "किराना सामान लेना",
+    "quis ut nam facilis et officia qui": "कार्यालय का काम पूरा करना",
+    "fugiat veniam minus": "थोड़ा आराम करना",
+    "et porro tempora": "ग्राहक कॉल में भाग लेना",
+    "laboriosam mollitia et enim quasi adipisci quia provident illum": "स्कूल का असाइनमेंट पूरा करना"
+  },
+  "errors": {
+    "loadTodos": "टूडू लोड करने में विफल",
+    "addTodo": "टूडू जोड़ने में विफल",
+    "deleteTodo": "टूडू हटाने में विफल"
+  }
+}
